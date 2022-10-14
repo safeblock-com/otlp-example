@@ -21,3 +21,4 @@ You can enter `http://localhost:9000/hello` in your browser and see the trace an
 ## Authors
 
 Kamil Kucharski - kamil.kucharski95@gmail.com
+Kamil Supera - kamil.supera.ks@gmail.com
