@@ -9,7 +9,7 @@ from opentelemetry.sdk.trace.export import BatchSpanProcessor
 
 app = Flask(__name__)
 
-resource = Resource(attributes={"service.name": "example_service"})
+resource = Resource(attributes={"service.name": "otlp-example"})
 
 otlp_exporter = OTLPSpanExporter(insecure=True)
 tracer_provider = TracerProvider(resource=resource)
