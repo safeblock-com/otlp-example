@@ -1,5 +1,8 @@
 # OpenTelemetryFlaskExample
 
+
+https://makimo.com/blog/opentelemetry-integration-with-datadog/
+
 ## Prerequisites
 
 You need to have valid Datadog agent. If you don't have one you can create one [here](https://www.datadoghq.com/).
